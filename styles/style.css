@@ -35,7 +35,7 @@ body {
 }
 .navbar {
   justify-content: space-evenly;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   display: flex;
 }
 
@@ -47,3 +47,20 @@ body {
   font-size: 24px;
   color: #f8faf9;
 }
+
+.title-text,
+.links a {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.links {
+  /* border: 2px solid palegreen; */
+  gap: 12px;
+}
+
+/*Title Section*/
