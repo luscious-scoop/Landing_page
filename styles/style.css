@@ -182,6 +182,7 @@ body {
   color: #1f2937;
   font-weight: 300;
   padding: 12px 24px;
+  font-style: italic;
 }
 
 .quote-section .writer {
