@@ -99,6 +99,7 @@ body {
   border: none;
   border-radius: 8px;
   padding: 12px 32px;
+  cursor: pointer;
 }
 
 .img-placeholder {
@@ -191,27 +192,29 @@ body {
 /*Sign-up Section */
 
 .sign-up-section {
-  padding: 200px;
+  padding: 100px;
   color: #1f2937;
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 .sign-up-section .sign-up-text {
   padding: 18px;
-  border: 2px solid yellow;
+  /* border: 2px solid yellow; */
 }
 
 .sign-up-section .sign-up-box {
-  padding: 12px 30px;
+  padding: 20px;
   display: flex;
-  width: 100%;
+  align-items: center;
+  width: 70%;
   background-color: #3882f6;
   color: #f8faf9;
-  border: 2px solid blueviolet;
-  justify-content: space-evenly;
+  /*  border: 2px solid blueviolet; */
+  justify-content: space-around;
+  border-radius: 8px;
 }
 
 .sign-up-section button {
