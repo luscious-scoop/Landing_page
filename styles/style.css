@@ -159,3 +159,20 @@ body {
   color: #555555;
   text-align: center;
 }
+
+/*Quote section */
+
+.quote-section {
+  padding: 200px;
+  font-size: 18px;
+  background-color: #e5e7eb;
+  color: black;
+  border: 2px solid seagreen;
+}
+
+.quote-section .quote {
+  border: 2px solid sienna;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+}
