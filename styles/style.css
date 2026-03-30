@@ -113,8 +113,14 @@ body {
 /*Doing the information section*/
 
 .information-section {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   color: black;
   border: 2px solid gold;
+  padding: 30px;
 }
 
 .information-section h2 {
@@ -125,11 +131,12 @@ body {
 }
 
 .card {
+  gap: 8px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 2px solid salmon;
+  /* border: 2px solid salmon; */
 }
 
 .bg {
@@ -140,5 +147,14 @@ body {
 }
 
 .sub-information {
+  gap: 10px;
   display: flex;
+}
+
+.card p {
+  padding: 12px;
+  font-size: 18px;
+  border: 2px solid yellow;
+  color: #555555;
+  text-align: center;
 }
