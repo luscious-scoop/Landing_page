@@ -226,3 +226,13 @@ body {
   font-weight: 900;
   font-size: 24px;
 }
+
+/*Footer */
+
+.footer {
+  height: 72px;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
