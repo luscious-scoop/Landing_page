@@ -69,16 +69,16 @@ body {
 /*Title Section*/
 
 .title-section {
-  padding: 24px;
+  padding: 150px;
   display: flex;
   justify-content: space-evenly;
-  border: 3px solid hotpink;
+  /* border: 3px solid hotpink; */
   align-items: center;
 }
 
 .introduction {
   padding: 24px;
-  border: 2px solid white;
+  /* border: 2px solid white; */
 }
 
 .introduction h1 {
@@ -99,4 +99,13 @@ body {
   border: none;
   border-radius: 8px;
   padding: 12px 32px;
+}
+
+.img-placeholder {
+  background-color: #8e9196;
+  /*  border: 2px solid saddlebrown; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px 300px;
 }
