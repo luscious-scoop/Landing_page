@@ -28,7 +28,7 @@ body {
 
 /*Doing navbar and header section */
 .header-section {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   flex-direction: column;
   background-color: #1f2937;
@@ -108,4 +108,18 @@ body {
   justify-content: center;
   align-items: center;
   padding: 150px 300px;
+}
+
+/*Doing the information section*/
+
+.information-section {
+  color: black;
+  border: 2px solid gold;
+}
+
+.information-section h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: bold;
 }
