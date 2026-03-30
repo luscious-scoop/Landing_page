@@ -188,3 +188,38 @@ body {
   color: black;
   font-size: 24px;
 }
+/*Sign-up Section */
+
+.sign-up-section {
+  padding: 200px;
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+}
+
+.sign-up-section .sign-up-text {
+  padding: 18px;
+  border: 2px solid yellow;
+}
+
+.sign-up-section .sign-up-box {
+  padding: 12px 30px;
+  display: flex;
+  width: 100%;
+  background-color: #3882f6;
+  color: #f8faf9;
+  border: 2px solid blueviolet;
+  justify-content: space-evenly;
+}
+
+.sign-up-section button {
+  background-color: transparent;
+  border: 2px solid white;
+}
+
+.upper {
+  font-weight: 900;
+  font-size: 24px;
+}
