@@ -64,3 +64,20 @@ body {
 }
 
 /*Title Section*/
+
+.title-section {
+  display: flex;
+  justify-content: space-evenly;
+  border: 3px solid hotpink;
+  align-items: center;
+}
+
+.introduction {
+  border: 2px solid white;
+}
+
+.introduction h1 {
+  font-size: 48px;
+  color: #f8faf9;
+  font-weight: 900;
+}
