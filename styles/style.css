@@ -34,6 +34,7 @@ body {
   background-color: #1f2937;
 }
 .navbar {
+  padding: 20px 0px;
   align-items: center;
   justify-content: space-evenly;
   /* border: 2px solid blue; */
@@ -45,6 +46,7 @@ body {
 }
 
 .logo {
+  font-weight: 900;
   font-size: 24px;
   color: #f8faf9;
 }
