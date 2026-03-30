@@ -63,7 +63,7 @@ body {
 
 .links {
   /* border: 2px solid palegreen; */
-  gap: 12px;
+  gap: 30px;
 }
 
 /*Title Section*/
@@ -92,6 +92,7 @@ body {
 }
 
 .btn {
+  font-size: 18px;
   font-weight: bold;
   background-color: #3882f6;
   color: white;
