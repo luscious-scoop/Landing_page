@@ -163,6 +163,8 @@ body {
 /*Quote section */
 
 .quote-section {
+  display: flex;
+  flex-direction: column;
   padding: 200px;
   font-size: 18px;
   background-color: #e5e7eb;
@@ -175,4 +177,13 @@ body {
   font-size: 36px;
   color: #1f2937;
   font-weight: 300;
+  padding: 12px 24px;
+}
+
+.quote-section .writer {
+  border: 2px solid yellow;
+  margin-left: auto;
+  font-weight: 900;
+  color: black;
+  font-size: 20px;
 }
