@@ -230,6 +230,7 @@ body {
 /*Footer */
 
 .footer {
+  font-size: 18px;
   height: 72px;
   background-color: #1f2937;
   display: flex;
